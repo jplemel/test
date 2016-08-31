@@ -20,6 +20,7 @@ namespace forGitHub
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = "Told you not to push it!!";
+            Console.Write("told you!");
         }
     }
 }
